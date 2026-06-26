@@ -13,6 +13,8 @@ When I'm not working, I'm usually at a coffee shop with a book, or out on a long
 **Languages & Platforms**
 
 ![Python](https://img.shields.io/badge/Python-14232c?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-14232c?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-14232c?style=flat-square&logo=keras&logoColor=white)
 ![R](https://img.shields.io/badge/R-14232c?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-14232c?style=flat-square&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-14232c?style=flat-square&logo=linux&logoColor=white)
@@ -38,6 +40,9 @@ A/B Testing & Experiment Design · Propensity Score Matching · Difference-in-Di
 
 **Exploratory**
 Clustering · PCA · Anomaly Detection · Topic Modeling
+
+**Time Series**
+ARIMA · SARIMA · Box-Jenkins Methodology 
 
 ---
 
