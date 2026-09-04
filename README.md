@@ -10,7 +10,7 @@ My background spans economics, risk management, and e-commerce operations, which
 
 ## 🚀 Featured Projects
 
-### 🤖 [LLM-Assisted Data Quality Automation](https://github.com/tom666d/llm-data-scientist)
+### 🤖 [LLM-Assisted Data Quality Automation](https://github.com/tom666d/big_data_team_6)
 `Python` `PySpark` `Spark` `LLM`
 
 Built an LLM-assisted Spark workflow to detect data-quality anomalies, diagnose root causes, and generate validated PySpark fixes for analyst review.
