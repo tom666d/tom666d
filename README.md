@@ -10,39 +10,64 @@ My background spans economics, risk management, and e-commerce operations, which
 
 ## 🚀 Featured Projects
 
-### 🤖 [LLM-Assisted Data Quality Automation](https://github.com/tom666d/big_data_team_6)
-`Python` `PySpark` `Spark` `LLM`
+### AI & LLM Systems
 
-Built an LLM-assisted Spark workflow to detect data-quality anomalies, diagnose root causes, and generate validated PySpark fixes for analyst review.
+#### [LLM Data Scientist](https://github.com/tom666d/llm-data-scientist)
+`Python` `Streamlit` `Anthropic API` `scikit-learn` `Tool Use`
 
-**Highlights:** Large-scale data quality · Automated diagnosis · LLM-generated remediation · PySpark validation
+Built a chat-driven analytics app for exploratory analysis, predictive modeling, and causal estimation, with human approval for key analytical choices.
 
----
+#### [Role-Based Medical QA System](https://github.com/tom666d/role-based-medical-QAsystem)
+`Python` `AutoGen` `ChromaDB` `FastAPI` `Docker` `Azure`
 
-### 📊 [Sponsored Ads ROI — Causal Inference](https://github.com/tom666d/did-sponsored-ads-roi)
-`R` `Difference-in-Differences` `Econometrics` `Causal Inference`
+Built a multi-agent assistant for querying medical records, enforcing role-based access through filtered retrieval before records reach the LLM.
 
-Estimated the causal impact of sponsored advertising using a natural experiment and Difference-in-Differences, separating true incremental impact from observational correlation.
+#### [RAG Chatbot](https://github.com/tom666d/rag-chatbot)
+`Python` `LangChain` `FAISS` `Streamlit` `Groq`
 
-**Highlights:** Experiment design · Parallel trends · Treatment effect estimation · Business ROI
+Built a document Q&A app that retrieves relevant passages from uploaded PDFs and text files to ground conversational answers.
 
----
+#### [LLM-Assisted Data Quality Automation](https://github.com/tom666d/big_data_team_6)
+`PySpark` `Databricks` `GPT-4o-mini` `Streamlit`
 
-### 🏥 [Role-Based Medical QA System](https://github.com/tom666d/role-based-medical-QAsystem)
-`Python` `AutoGen` `ChromaDB` `FastAPI` `Azure`
-
-Built a multi-agent LLM system for natural-language queries over medical records, with role-based access enforced through metadata-filtered retrieval.
-
-**Highlights:** Multi-agent architecture · RAG · Vector search · Access control · Cloud deployment
+Built an LLM-assisted Spark workflow to detect data-quality anomalies and propose remediation for human review.
 
 ---
 
-### 📈 [BNPL Trend Forecasting](https://github.com/tom666d/bnpl-trend-forecasting)
-`Python` `R` `SARIMA` `LSTM` `Time Series`
+### Data Engineering & Analytics Engineering
 
-Analyzed and forecasted long-term consumer search interest in Buy Now Pay Later using statistical and machine-learning time-series approaches.
+#### [NYC Building Compliance Analytics](https://github.com/tom666d/nyc-building-compliance-analytics)
+`Python` `SQL` `Snowflake` `dbt` `Airflow` `GitHub Actions`
 
-**Highlights:** Time-series analysis · SARIMA · LSTM · Forecast evaluation
+Built an ELT pipeline with dimensional models, data-quality checks, and a dashboard that combines NYC permits, complaints, and violations to prioritize building reviews.
+
+---
+
+### Machine Learning & Forecasting
+
+#### [Walmart Sales Forecasting](https://github.com/tom666d/Predictive-Analytics-Project)
+`Python` `LightGBM` `XGBoost` `Feature Engineering` `WRMSSE`
+
+Built a configurable M5 sales-forecasting pipeline using lag and rolling-window features, gradient boosting, and ensemble models.
+
+#### [BNPL Trend Forecasting](https://github.com/tom666d/bnpl-trend-forecasting)
+`Python` `R` `SARIMA` `LSTM` `TensorFlow`
+
+Compared SARIMA and LSTM forecasts of Buy Now Pay Later search interest, using rolling predictions and residual diagnostics to evaluate performance.
+
+---
+
+### Causal Inference & Experimentation
+
+#### [Sponsored Ads ROI](https://github.com/tom666d/did-sponsored-ads-roi)
+`R` `Difference-in-Differences` `dplyr` `ggplot2`
+
+Used an advertising outage as a natural experiment to estimate incremental traffic and correct ROI for clicks that would otherwise come through organic search.
+
+#### [Causal Inference Toolkit](https://github.com/tom666d/causal-inference-toolkit)
+`R` `MatchIt` `Synth` `rdrobust`
+
+Applied propensity score matching, synthetic control, and regression discontinuity across three case studies on search behavior, cigarette taxes, and ad placement.
 
 ---
 
