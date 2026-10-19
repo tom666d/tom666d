@@ -27,7 +27,7 @@ Built a multi-agent assistant for querying medical records, enforcing role-based
 
 Built a document Q&A app that retrieves relevant passages from uploaded PDFs and text files to ground conversational answers.
 
-#### [LLM-Assisted Data Quality Automation](https://github.com/tom666d/big_data_team_6)
+#### [LLM-Assisted Data Quality Automation](https://github.com/tom666d/llm_data_quality_assistant)
 `PySpark` `Databricks` `GPT-4o-mini` `Streamlit`
 
 Built an LLM-assisted Spark workflow to detect data-quality anomalies and propose remediation for human review.
