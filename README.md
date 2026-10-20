@@ -1,75 +1,117 @@
 # Hi, I'm Tom 👋
 
-**Data & AI | Business-Driven Problem Solver**
+### Data & AI | Business-Driven Problem Solver
 
-I turn complex data into practical decisions by combining business context with analytics, machine learning, causal inference, data engineering, and AI systems.
+I build end-to-end data and AI solutions that turn business problems into **actionable insights, reliable data products, and automated workflows.**
 
-My background spans economics, risk management, e-commerce operations, and client-facing analytics. I care less about modeling for its own sake and more about building solutions people can actually use.
+With a background in economics and business analytics, along with hands-on experience in **e-commerce**, I combine **business understanding, analytical thinking, and technical execution** to solve real-world problems.
+
+**MS in Business Analytics @ University of Minnesota, Carlson School of Management**
 
 ---
 
-## 🌎 Real-World Business Impact
+## 💼 Real-World Business Impact
 
-### Carlson Analytics Lab — Data Science Consultant
+### Industry Consulting | Carlson Analytics Lab
 
-- **RV Demand Forecasting** — Built regional product-demand forecasting models for Winnebago Industries to support planning and AI-enabled decision-making.
-- **Construction Bidding Analytics** — Developed analytics to help a construction client evaluate bidding opportunities and make more informed pursuit decisions.
-- **Transportation GPS Anomaly Detection** — Designed an anomaly-detection workflow to identify unusual GPS patterns and improve operational monitoring for a transportation client.
+Partnered with **3 industry clients** across manufacturing, construction, and transportation to solve business challenges through data-driven solutions.
 
-### CBES Group — E-commerce Operations
+**Client 1 — RV Manufacturing | Demand Forecasting**
 
-- Used sales, pricing, assortment, and campaign data to improve commercial decisions across e-commerce operations.
-- Translated marketplace performance into actionable recommendations for growth, execution, and day-to-day business management.
+Developed regional demand forecasts to help anticipate market trends, improve resource allocation, and support strategic planning.
+
+- **20% reduction in forecast error (MAPE)** versus the client's baseline
+- **$23.4M estimated revenue opportunity** identified
+- **25% reduction** in manual demand-planning review time
+
+**Client 2 — Construction | Competitive Bidding Intelligence**
+
+Transformed inconsistent bidding data into visual insights on competitor behavior, pricing patterns, and market dynamics to support competitive bidding decisions.
+
+- **1,600+ historical bids** cleaned and analyzed
+- **$4M potential revenue opportunity** identified
+- **5 analyst hours saved weekly** through streamlined reporting
+
+**Client 3 — Transportation | GPS Anomaly Detection**
+
+Developed anomaly detection solutions to distinguish GPS device malfunctions from actual trip deviations, enabling more accurate trip-quality monitoring and targeted investigations.
+
+- **2.35M GPS records** analyzed across **10,776 trips**
+- **593 trips flagged** for quality review
+- **75% potential reduction** in manual review time through an AI-powered alert prototype
+
+### E-Commerce Sales Analytics | CBES Group
+
+Improved pricing and product assortment decisions for cross-border e-commerce operations while automating routine business processes.
+
+- **7% increase in profit margins** across accounts generating **$5M+ in annual sales**
+- **40% reduction** in manual processing time through workflow automation
 
 ---
 
 ## 🚀 Featured Projects
 
-### [NYC Building Compliance Analytics](https://github.com/tom666d/nyc-building-compliance-analytics)
-`Python` `SQL` `Snowflake` `dbt` `Airflow` `GitHub Actions`
+### 01. [NYC Building Compliance Analytics](https://github.com/tom666d/nyc-building-compliance-analytics)
 
-Built an ELT pipeline with dimensional models, data-quality checks, and a dashboard that combines NYC permits, complaints, and violations to prioritize building reviews.
+**Building reliable data products for operational decisions**
 
-### [LLM Data Scientist](https://github.com/tom666d/llm-data-scientist)
-`Python` `Streamlit` `Anthropic API` `scikit-learn` `Tool Calling`
+Integrated fragmented NYC building records into a unified analytics platform, enabling consistent compliance reporting and building-review prioritization.
 
-Built a chat-driven analytics app for exploratory analysis, predictive modeling, and causal estimation, with human approval for key analytical choices.
+- Built end-to-end ELT pipelines, dimensional models, and automated data-quality checks.
+- Integrated Snowflake, dbt, Airflow, and a decision-support dashboard.
 
-### [Walmart Sales Forecasting](https://github.com/tom666d/Predictive-Analytics-Project)
-`Python` `LightGBM` `XGBoost` `Feature Engineering` `WRMSSE`
+`Python` `SQL` `Snowflake` `dbt` `Airflow`
 
-Built a configurable M5 sales-forecasting pipeline using lag and rolling-window features, gradient boosting, and ensemble models.
+### 02. [LLM Data Scientist](https://github.com/tom666d/llm-data-scientist)
 
-### [Sponsored Ads ROI](https://github.com/tom666d/did-sponsored-ads-roi)
-`R` `Difference-in-Differences` `dplyr` `ggplot2`
+**Automating analytical workflows with AI**
 
-Used an advertising outage as a natural experiment to estimate incremental traffic and correct ROI for clicks that would otherwise come through organic search.
+Developed an AI-powered analytics application that converts natural-language requests into exploratory analysis, predictive modeling, and preliminary causal estimation.
+
+- Orchestrated LLM tool calls with deterministic Python analytics.
+- Implemented human-in-the-loop controls for analytical decisions requiring judgment.
+
+`Python` `LLM Tool Use` `scikit-learn` `Streamlit`
+
+### 03. [Walmart Sales Forecasting](https://github.com/tom666d/Predictive-Analytics-Project)
+
+**Predicting demand to support business planning**
+
+Built a machine learning pipeline to forecast 28-day retail demand across 30K+ item-store combinations, using historical sales, pricing, and calendar information.
+
+- Processed 58M+ sales records and engineered time-series features.
+- Developed configurable LightGBM and XGBoost forecasting models.
+
+`Python` `LightGBM` `XGBoost` `Machine Learning`
+
+### 04. [Sponsored Ads ROI Analysis](https://github.com/tom666d/did-sponsored-ads-roi)
+
+**Using causal inference to improve marketing decisions**
+
+Applied Difference-in-Differences to evaluate the incremental impact of sponsored search advertising.
+
+- Distinguished incremental paid traffic from organic substitution.
+- Re-estimated campaign ROI from 320% to 241% in a marketing case study.
+
+`R` `Causal Inference` `Statistical Analysis`
 
 ---
 
-## 🧰 Technical Toolkit
+## 🛠️ Technical Toolkit
 
-**Programming**  
-Python · SQL · R
-
-**Data Engineering**  
-Snowflake · dbt · Spark · Databricks · Airflow
-
-**Predictive Modeling**  
-Linear Models · Tree-Based Models · Neural Networks · Classical Time-Series Models
-
-**Causal Inference & Experimentation**  
-A/B Testing · Difference-in-Differences · Matching · Synthetic Control
-
-**AI Systems**  
-LLM Tool Calling · RAG · Multi-Agent Orchestration · Human-in-the-Loop
-
-**Business Intelligence**  
-Tableau · Power BI
+| Area | Core Skills & Tools |
+|---|---|
+| **Programming** | Python, SQL, R |
+| **Data Engineering** | Snowflake, dbt, Spark, Databricks, Airflow |
+| **Predictive Modeling** | Linear Models, Tree-Based Models, Neural Networks, Classical Time-Series Models |
+| **Causal Inference & Experimentation** | A/B Testing, Difference-in-Differences, Matching, Synthetic Control |
+| **AI Systems** | LLM Tool Calling, RAG, Multi-Agent Orchestration, Human-in-the-Loop |
+| **Business Intelligence** | Tableau, Power BI |
 
 ---
 
 ## 📫 Let's Connect
 
-**LinkedIn:** [Yung Hsuan Hsieh](https://www.linkedin.com/in/yung-hsuan-hsieh/)  
-**Email:** hsieh203@umn.edu
+I'm interested in building practical data and AI solutions that solve meaningful business problems.
+
+[LinkedIn](https://www.linkedin.com/in/yung-hsuan-hsieh/) · [GitHub](https://github.com/tom666d) · [hsieh203@umn.edu](mailto:hsieh203@umn.edu)
